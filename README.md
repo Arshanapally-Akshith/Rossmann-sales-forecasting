@@ -245,12 +245,6 @@ rossmann-supply-chain/
 
 ---
 
-### 🌊 Waterfall — Why Did the Model Predict THIS for Store 1?
-
-![SHAP Waterfall](images/shap_waterfall_store1.png)
-
----
-
 ## 🚨 Anomaly Detection
 
 ### Store-Level Rolling Threshold (No Global Bias)
@@ -267,19 +261,11 @@ rossmann-supply-chain/
 
 ---
 
-## 📉 Expanding Window Backtesting
 
-### MAPE Heatmap — 5 Splits × 4 StoreTypes
+## 📊 CatBoost Feature Importance
 
-![MAPE Heatmap](images/mape_heatmap.png)
+![CatBoost Importance](images/catboost_importance.png)
 
-| Split | Train Period | Test Period |
-|---|---|---|
-| Split 1 | Jan 2013 – Dec 2013 | Q1 2014 |
-| Split 2 | Jan 2013 – Mar 2014 | Q2 2014 |
-| Split 3 | Jan 2013 – Jun 2014 | Q3 2014 |
-| Split 4 | Jan 2013 – Sep 2014 | Q4 2014 |
-| Split 5 | Jan 2013 – Dec 2014 | H1 2015 |
 
 ---
 
