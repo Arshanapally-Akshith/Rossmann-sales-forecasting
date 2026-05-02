@@ -237,9 +237,8 @@ rossmann-supply-chain/
 │   ├── powerbi_page4_anomaly_intelligence.png
 │   ├── powerbi_page5_backtesting.png
 │   ├── shap_beeswarm.png
-│   ├── shap_waterfall_store1.png
-│   ├── anomaly_chart.png
-│   └── mape_heatmap.png
+│   ├── actual_vs_pred.png
+│   └── catboost_importance.png
 │
 ├── requirements.txt
 └── README.md
