@@ -165,6 +165,30 @@ store_states.csv   — store → German state mapping (from fast.ai Rossmann bun
 
 ---
 
+## 📂 Data & Outputs
+
+Due to file size constraints, full datasets and generated outputs are not included in this repository.
+
+### 📥 Raw Data
+The original dataset can be downloaded from Kaggle:  
+https://www.kaggle.com/competitions/rossmann-store-sales/data  
+
+A small sample (`train_sample.csv`) is included in `data/raw/` for reference.
+
+---
+
+### 📊 Outputs
+Sample output files are provided in `data/outputs/` to demonstrate structure and results:
+
+- cleaned_rossmann_sample.csv  
+- sql_features_sample.csv  
+- final_predictions_sample.csv  
+- final_predictions_full_sample.csv
+- rossmann_features_sample.csv
+- reconciled_predictions_sample.csv
+
+To reproduce full outputs, run the notebooks in sequence.
+
 ## 📁 Folder Structure
 
 ```
