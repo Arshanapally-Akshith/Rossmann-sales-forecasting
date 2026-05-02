@@ -245,24 +245,17 @@ rossmann-supply-chain/
 
 ---
 
-## 🚨 Anomaly Detection
+## 🤖 Model Performance Visualization
 
-### Store-Level Rolling Threshold (No Global Bias)
+### 📈 Actual vs Predicted
 
-![Anomaly Chart](images/anomaly_chart.png)
+![Actual vs Predicted](images/actual_vs_pred.png)
 
-| Metric | Value |
-|---|---|
-| Total anomalies detected | 32,618 |
-| Anomaly rate | 3.87% |
-| Top anomaly store | Store 562 (53 anomalies) |
-| Threshold design | Per-store rolling 99th percentile — training period only |
-| pct_error normalisation | abs_error / Sales — store-size independent |
 
 ---
 
 
-## 📊 CatBoost Feature Importance
+### 📊 CatBoost Feature Importance
 
 ![CatBoost Importance](images/catboost_importance.png)
 
