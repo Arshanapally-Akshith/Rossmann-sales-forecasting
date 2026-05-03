@@ -12,3 +12,4 @@ streamlit
 joblib
 gdown
 plotly
+statsmodels
