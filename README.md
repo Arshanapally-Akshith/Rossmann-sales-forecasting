@@ -337,7 +337,7 @@ streamlit run streamlit/app.py
 
 ## 📸 Demo
 
-![Demo](images/demo.gif)
+![Demo](assets/demo.gif)
 
 ---
 
