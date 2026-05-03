@@ -6,7 +6,7 @@
 # 🏪 Rossmann Supply Chain Demand Forecasting
 
 🚀 **Live Demo**
-👉 [https://rossmann-supply-chain.streamlit.app/](https://rossmann-sales-forecasting-awslnwezhyd2hw59lkax4u.streamlit.app/)
+👉 https://rossmann-sales-forecasting-7.streamlit.app/
 
 ---
 
