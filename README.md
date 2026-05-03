@@ -1,7 +1,7 @@
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-green)]([https://rossmann-supply-chain.streamlit.app/](https://rossmann-sales-forecasting-7.streamlit.app/))
-[![Power BI Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-yellow)](https://app.powerbi.com)
-[![Notebooks](https://img.shields.io/badge/Notebooks-7-blue)](https://github.com/Arshanapally-Akshith/rossmann-supply-chain)
-[![RMSPE](https://img.shields.io/badge/Ensemble%20RMSPE-1.038%25-brightgreen)](https://github.com/Arshanapally-Akshith/rossmann-supply-chain)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-green)](https://rossmann-sales-forecasting-7.streamlit.app/)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-yellow)](https://app.powerbi.com/)
+[![Notebooks](https://img.shields.io/badge/Notebooks-7-blue)](https://github.com/Arshanapally-Akshith/Rossmann-sales-forecasting/tree/main/notebooks)
+[![RMSPE](https://img.shields.io/badge/Ensemble%20RMSPE-1.038%25-brightgreen)](https://github.com/Arshanapally-Akshith/Rossmann-sales-forecasting)
 
 # 🏪 Rossmann Supply Chain Demand Forecasting
 
