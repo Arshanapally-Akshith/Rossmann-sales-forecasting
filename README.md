@@ -23,7 +23,7 @@
 
 > Click the image to open the live Streamlit app
 
-[![Live App](assets/demo.gif)](https://rossmann-sales-forecasting-aks.streamlit.app/)
+[![Live App](assets/demo/demo.gif)](https://rossmann-sales-forecasting-aks.streamlit.app/)
 
 ---
 
