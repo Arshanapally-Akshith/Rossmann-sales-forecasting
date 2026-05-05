@@ -90,7 +90,7 @@
 > CatBoost independently confirms `avg_4w` as the dominant feature — cross-model agreement on feature importance validates the rolling mean as the true demand signal, not an XGBoost-specific artifact.
 
 ## 📈 Actual vs Predicted — Store Level
-![Actual vs Predicted](assets/screenshots/actual_vs_predicted.png)
+![Actual vs Predicted](assets/screenshots/actual_vs_pred.png)
 
 > Near-perfect tracking between actual (red) and predicted (blue) sales across the full 2.5-year period. Test period predictions (post Jun 2015) maintain the same accuracy as training — confirming no overfitting.
 
