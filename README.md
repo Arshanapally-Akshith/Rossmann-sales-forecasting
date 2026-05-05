@@ -3,7 +3,7 @@
 [![Notebooks](https://img.shields.io/badge/Notebooks-7-blue?style=for-the-badge&logo=jupyter)](https://github.com/Arshanapally-Akshith/Rossmann-sales-forecasting/tree/main/notebooks)
 [![RMSPE](https://img.shields.io/badge/Ensemble%20RMSPE-1.038%25-success?style=for-the-badge)](https://github.com/Arshanapally-Akshith/Rossmann-sales-forecasting)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://python.org)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <h1 align="center">🏪 Rossmann Supply Chain Demand Forecasting</h1>
 
 <p align="center">
