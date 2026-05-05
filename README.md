@@ -32,7 +32,7 @@
 <details open>
 <summary><b>📊 Page 1 — Executive Overview</b></summary>
 
-![Page 1](images/powerbi_page1_overview.png)
+![Page 1](assets/screenshots/powerbi_page1_overview.png)
 
 *Total €5.87B sales · Monthly trend · Sales by StoreType · Germany state map · Promo vs Non-Promo KPIs*
 
@@ -41,7 +41,7 @@
 <details open>
 <summary><b>📈 Page 2 — Demand Patterns & SQL Features</b></summary>
 
-![Page 2](images/powerbi_page2_demand_patterns.png)
+![Page 2](assets/screenshots/powerbi_page2_demand_patterns.png)
 
 *Actual vs 4-week rolling average · Deviation bar chart (green = above baseline, red = below) · DayOfWeek × Month heatmap · Competition distance scatter*
 
@@ -50,7 +50,7 @@
 <details open>
 <summary><b>🤖 Page 3 — Model Performance</b></summary>
 
-![Page 3](images/powerbi_page3_model_performance.png)
+![Page 3](assets/screenshots/powerbi_page3_model_performance.png)
 
 *MAE / MAPE / RMSPE KPI cards · Actual vs predicted scatter (near-perfect 45° line) · RMSPE by StoreType · Time-series fit over 135 weeks*
 
@@ -59,7 +59,7 @@
 <details open>
 <summary><b>🚨 Page 4 — Anomaly Intelligence</b></summary>
 
-![Page 4](images/powerbi_page4_anomaly_intelligence.png)
+![Page 4](assets/screenshots/powerbi_page4_anomaly_intelligence.png)
 
 *Total anomalies · Top stores by anomaly count · Risk classification table (HIGH / MEDIUM / LOW) · Anomalies by StoreType · Monthly anomaly trend*
 
@@ -68,7 +68,7 @@
 <details open>
 <summary><b>📉 Page 5 — Model Reliability</b></summary>
 
-![Page 5](images/powerbi_page5_backtesting.png)
+![Page 5](assets/screenshots/powerbi_page5_backtesting.png)
 
 *135-week RMSE trend · Train RMSE 41.23 vs Test RMSE 40.88 — near-equal, confirming zero overfitting · Test period boundary marker*
 
@@ -78,7 +78,7 @@
 
 ## 🐝 SHAP Explainability
 
-![SHAP Beeswarm](images/shap_beeswarm.png)
+![SHAP Beeswarm](assets/screenshots/shap_beeswarm.png)
 
 > `avg_4w` dominates at **52%+ SHAP importance** — recent rolling history is the single strongest demand signal across all 1,115 stores.
 > `dev_4w` at **26%** captures promotional spikes and supply disruptions.
@@ -236,15 +236,16 @@ Rossmann-sales-forecasting/
 │   └── rossmann_dashboard.pbix
 │
 ├── assets/
-│   └── demo.gif
-│
-├── images/
-│   ├── powerbi_page1_overview.png
-│   ├── powerbi_page2_demand_patterns.png
-│   ├── powerbi_page3_model_performance.png
-│   ├── powerbi_page4_anomaly_intelligence.png
-│   ├── powerbi_page5_backtesting.png
-│   └── shap_beeswarm.png
+│   └── demo/
+|   |    |__demo.gif
+|   |
+|   ├── images/
+│       ├── powerbi_page1_overview.png
+│       ├── powerbi_page2_demand_patterns.png
+│       ├── powerbi_page3_model_performance.png
+│       ├── powerbi_page4_anomaly_intelligence.png
+│       ├── powerbi_page5_backtesting.png
+│       └── shap_beeswarm.png
 │
 ├── app.py
 ├── requirements.txt
